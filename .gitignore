@@ -1,0 +1,78 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+.venv
+venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Compiled extensions
+*.so
+*.dll
+*.dylib
+*.exe
+
+# C/C++ Build artifacts
+*.o
+*.a
+*.lib
+*.so
+*.dylib
+*.dll
+*.exe
+cmake_install.cmake
+CMakeFiles/
+CMakeCache.txt
+Makefile
+
+# Logs
+*.log
+test_output.txt
+
+# Checkpoints
+checkpoints/
+ckpt/
+*.ckpt
+
+# Temporary files
+*.tmp
+*.temp
+~*
+
+# OS
+.DS_Store
+Thumbs.db
